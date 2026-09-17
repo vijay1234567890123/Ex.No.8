@@ -52,7 +52,7 @@ The reference image was carefully examined to identify:
 
 ## Reference Image
 
-<img width="3896" height="4870" alt="yuyang-liu-EouROC9_Rzk-unsplash" src="https://github.com/user-attachments/assets/34a63a94-e7c4-4a2e-8165-5043d0736600" />
+<img width="1408" height="768" alt="yuyang-liu-EouROC9_Rzk-unsplash" src="https://github.com/user-attachments/assets/34a63a94-e7c4-4a2e-8165-5043d0736600" />
 
 ---
 
