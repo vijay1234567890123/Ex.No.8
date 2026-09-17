@@ -75,7 +75,8 @@ Detailed prompts produce better and more accurate images. Prompt engineering is 
 
 ---
 
-## **Output**
+## **Output** 
+<img width="1408" height="768" alt="Gemini_Generated_Image_whbax1whbax1whba" src="https://github.com/user-attachments/assets/22792501-0ac6-466e-88c0-9fc994515252" />
 
 ### **Original Image**
 
