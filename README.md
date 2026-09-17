@@ -1,81 +1,136 @@
-# **Exp No: 8**
+# Exp. No. 8 – Reproducing an Image Using Prompts for Image Generation
 
-## **Reproducing an Image Using Prompts for Image Generation**
-
----
-# Name: Anangi Vijay Vishal
-# Reg no: 212223030001
-
-## **Aim**
-
-To analyze a given image and recreate it using an image generation model by writing and refining prompts.
+## NAME: ANANGI VIJAY VISHAL  
+## REG NO: 212223030001  
 
 ---
 
-## **Requirements**
+## Aim
 
-* Gemini (or any image generation tool)
-* Internet connection
-* Reference image
+To reproduce a given reference image using prompts with an AI image-generation tool and improve the generated output through prompt refinement and iteration.
 
 ---
 
-## **Procedure**
+## Objective
 
-1. Study the given image carefully.
-2. Observe objects, colors, lighting, background, and style.
-3. Identify the main subject of the image.
-4. Write a basic prompt describing the image.
-5. Add more details such as:
-
-   * Colors
-   * Lighting
-   * Texture
-   * Background
-   * Camera angle
-   * Style
-6. Enter the refined prompt into Gemini.
-7. Generate the image.
-8. Compare it with the original image.
-9. Modify the prompt if needed.
-10. Repeat until a similar image is obtained.
-11. Save the final generated image.
+- To study the important visual features of a reference image.  
+- To create a basic prompt describing the image.  
+- To refine the prompt with additional visual details.  
+- To generate an image using Gemini.  
+- To compare the generated image with the reference image.  
+- To improve the result by modifying the prompt.  
 
 ---
 
-## **Basic Prompt**
+## Requirements
 
-A young man standing on a road during sunset.
-
----
-
-## **Refined Prompt (Used in Gemini)**
-
-A cinematic photo of a young man standing on an empty road during sunset, golden hour lighting, warm orange and pink sky, soft shadows, wearing a stylish casual outfit, realistic facial features, slight wind in hair, modern car beside him, background blurred, DSLR quality, ultra realistic, 4K resolution, shallow depth of field
+- Reference Image  
+- Google Gemini  
+- Internet Connection  
+- Computer or Mobile Device  
 
 ---
 
-## **Observation**
+## Procedure
 
-* The first generated image was not very accurate.
-* Adding details improved the output quality.
-* Lighting and background description gave better results.
+### Step 1: Examine the Given Image
+
+The reference image was carefully examined to identify:
+
+- Main subject  
+- Background  
+- Objects  
+- Colors  
+- Lighting  
+- Composition  
+- Pose and position  
+- Camera angle  
+- Textures  
+- Image style  
 
 ---
 
-## **Result**
+## Reference Image
 
-The given image was successfully reproduced using Gemini by refining the prompt.
-
----
-
-## **Conclusion**
-
-Detailed prompts produce better and more accurate images. Prompt engineering is important for achieving desired results.
+![Reference Image](https://images.unsplash.com/photo-1506521781263-d8422e82f27a?q=80&w=1200)
 
 ---
 
-## **Output** 
-<img width="1408" height="768" alt="Gemini_Generated_Image_whbax1whbax1whba" src="https://github.com/user-attachments/assets/22792501-0ac6-466e-88c0-9fc994515252" />
+### Step 2: Write the Basic Prompt
 
+A simple prompt was created by describing the main subject and important elements of the reference image.
 
+**Basic Prompt:**
+
+A rainy night street with lights and reflections.
+
+---
+
+### Step 3: Refine the Prompt
+
+The basic prompt was improved by adding details such as:
+
+- Exact colors  
+- Background details  
+- Lighting conditions  
+- Subject position  
+- Camera perspective  
+- Reflections and shadows  
+- Texture  
+- Realistic details  
+
+**Refined Prompt (Gemini):**
+
+A cinematic night scene of a wet city street during rain, glowing street lights reflecting on the road, neon signs in the background, cars passing with motion blur, a person walking with an umbrella, dark atmosphere, high contrast lighting, reflections on wet asphalt, ultra realistic, 4K resolution, shallow depth of field, DSLR photography style
+
+---
+
+### Step 4: Generate the Image Using Gemini
+
+The refined prompt was entered into Google Gemini's image-generation tool to generate a similar image.
+
+---
+
+### Step 5: Compare the Images
+
+The generated image was compared with the original reference image. Differences in subject, background, colors, lighting, and composition were identified.
+
+---
+
+### Step 6: Iterate and Adjust
+
+The prompt was modified based on the differences observed. The improved prompt was used again to generate a better result.
+
+---
+
+### Step 7: Save the Final Output
+
+The final generated image was saved along with the prompts and observations.
+
+---
+
+## Prompts Used
+
+**Basic Prompt:**  
+A rainy night street with lights and reflections.
+
+**Refined Prompt:**  
+A cinematic night scene of a wet city street during rain, glowing street lights reflecting on the road, neon signs in the background, cars passing with motion blur, a person walking with an umbrella, dark atmosphere, high contrast lighting, reflections on wet asphalt, ultra realistic, 4K resolution, shallow depth of field
+
+---
+
+## Output: Gemini Generated Image
+
+![Generated Image](https://images.unsplash.com/photo-1519608487953-e999c86e7455?q=80&w=1200)
+
+---
+
+## Result
+
+The image was successfully reproduced using Gemini by refining the prompt.
+
+---
+
+## Conclusion
+
+The experiment shows that adding more details to prompts improves the quality and accuracy of generated images. Prompt refinement is essential for achieving better results.
