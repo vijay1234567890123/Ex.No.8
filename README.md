@@ -1,6 +1,6 @@
 # Exp. No. 8 – Reproducing an Image Using Prompts for Image Generation
 
-## NAME: A VIJAY VISHAL  
+## NAME: ANANGI VIJAY VISHAL  
 ## REG NO: 212223030001  
 
 ---
@@ -52,7 +52,7 @@ The reference image was carefully examined to identify:
 
 ## Reference Image
 
-![Reference Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rainy_night_in_Tokyo.jpg/1280px-Rainy_night_in_Tokyo.jpg)
+<img width="3896" height="4870" alt="yuyang-liu-EouROC9_Rzk-unsplash" src="https://github.com/user-attachments/assets/34a63a94-e7c4-4a2e-8165-5043d0736600" />
 
 ---
 
@@ -62,7 +62,7 @@ A simple prompt was created by describing the main subject and important element
 
 **Basic Prompt:**
 
-A rainy night street with lights and reflections.
+A person walking on a street at night in the rain with street lights.
 
 ---
 
@@ -81,7 +81,7 @@ The basic prompt was improved by adding details such as:
 
 **Refined Prompt (Gemini):**
 
-A cinematic night scene of a wet city street during rain, glowing street lights reflecting on the road, neon signs in the background, cars passing with motion blur, a person walking with an umbrella, dark atmosphere, high contrast lighting, reflections on wet asphalt, ultra realistic, 4K resolution, shallow depth of field, DSLR photography style
+A highly realistic cinematic photo of a rainy evening street, a person walking under an umbrella on a wet sidewalk, illuminated by a row of warm glowing street lamps, reflections of golden lights on the rain-soaked pavement, parked cars along the road, large trees with wet leaves, a bench on the side, visible raindrops, moody atmosphere, deep blue twilight sky, high contrast lighting, ultra detailed, sharp focus, depth perspective, professional DSLR photography, 4K resolution
 
 ---
 
@@ -93,13 +93,27 @@ The refined prompt was entered into Google Gemini's image-generation tool to gen
 
 ### Step 5: Compare the Images
 
-The generated image was compared with the original reference image. Differences in subject, background, colors, lighting, and composition were identified.
+The generated image closely matches the reference image in terms of lighting, reflections, composition, and overall mood. Minor differences were observed in the arrangement of objects and perspective.
+
+---
+
+## Comparison Table
+
+| Feature            | Reference Image                              | Generated Image                              |
+|------------------|----------------------------------------------|----------------------------------------------|
+| Main Subject      | Person walking with umbrella                 | Person walking with umbrella                 |
+| Lighting          | Warm street lights with cool blue sky        | Similar warm lighting with slight variation  |
+| Reflections       | Strong reflections on wet road               | Reflections present and realistic            |
+| Background        | Trees, cars, street lamps                    | Similar elements recreated                   |
+| Mood              | Cinematic rainy evening                      | Cinematic and moody                          |
+| Detail Level      | Natural photography                          | High detail, slightly enhanced               |
+| Differences       | Real-world scene                             | Slight variation in perspective and objects  |
 
 ---
 
 ### Step 6: Iterate and Adjust
 
-The prompt was modified based on the differences observed. The improved prompt was used again to generate a better result.
+The prompt was slightly refined to improve lighting and depth details, resulting in a more accurate output.
 
 ---
 
@@ -112,16 +126,16 @@ The final generated image was saved along with the prompts and observations.
 ## Prompts Used
 
 **Basic Prompt:**  
-A rainy night street with lights and reflections.
+A person walking on a street at night in the rain with street lights.
 
 **Refined Prompt:**  
-A cinematic night scene of a wet city street during rain, glowing street lights reflecting on the road, neon signs in the background, cars passing with motion blur, a person walking with an umbrella, dark atmosphere, high contrast lighting, reflections on wet asphalt, ultra realistic, 4K resolution, shallow depth of field
+A highly realistic cinematic photo of a rainy evening street, a person walking under an umbrella on a wet sidewalk, illuminated by a row of warm glowing street lamps, reflections of golden lights on the rain-soaked pavement, parked cars along the road, large trees with wet leaves, a bench on the side, visible raindrops, moody atmosphere, deep blue twilight sky, high contrast lighting, ultra detailed, sharp focus, depth perspective, professional DSLR photography, 4K resolution
 
 ---
 
 ## Output: Gemini Generated Image
 
-![Generated Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Times_Square_rain.jpg/1280px-Times_Square_rain.jpg)
+<img width="1408" height="768" alt="Gemini_Generated_Image_nq6vt1nq6vt1nq6v" src="https://github.com/user-attachments/assets/06f819ea-bf4e-458c-a0fd-eac39ee06480" />
 
 ---
 
