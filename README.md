@@ -1,72 +1,94 @@
-Ex.No.8 – Reproducing an Image Using Prompts for Image Generation
+# **Exp No: 8**
 
-DATE: 06/09/2026
-NAME: Anangi Vijay Vishal
-REGISTER NUMBER: 212223030001
+## **Reproducing an Image Using Prompts for Image Generation**
 
-Aim
+---
+# Name: Anangi Vijay Vishal
+# Reg no: 212223030001
 
-To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and generate an image as close as possible to the original.
+## **Aim**
 
-AI Tools Required
+To analyze a given image and recreate it using an image generation model by writing and refining prompts.
 
-ChatGPT, DALL·E, Stable Diffusion, MidJourney
+---
 
-Explanation
+## **Requirements**
 
-In this experiment, the given images are analyzed by observing objects, colors, lighting, background, and style. Based on these observations, prompts are created and refined step by step. The refined prompts are then used in AI image generation tools to reproduce similar images. The generated images are compared with the original images to evaluate accuracy.
+* Gemini (or any image generation tool)
+* Internet connection
+* Reference image
 
-Image 1
-Original Image
+---
 
-Basic Prompt
+## **Procedure**
 
-A landscape with mountains and a lake during sunset.
+1. Study the given image carefully.
+2. Observe objects, colors, lighting, background, and style.
+3. Identify the main subject of the image.
+4. Write a basic prompt describing the image.
+5. Add more details such as:
 
-Refined Prompt
+   * Colors
+   * Lighting
+   * Texture
+   * Background
+   * Camera angle
+   * Style
+6. Enter the refined prompt into Gemini.
+7. Generate the image.
+8. Compare it with the original image.
+9. Modify the prompt if needed.
+10. Repeat until a similar image is obtained.
+11. Save the final generated image.
 
-A peaceful sunset landscape with mountains, a calm lake reflecting the sky, and warm orange and pink colors.
+---
 
-Final Prompt
+## **Basic Prompt**
 
-A highly detailed realistic sunset landscape with tall mountains, a calm reflective lake, orange and pink sky, soft clouds, natural lighting, ultra realistic, 4K quality.
+A young man standing on a road during sunset.
 
-Generated Image
+---
 
-Comparison
-Colors and lighting are similar
-Reflection effect is achieved
-Minor variation in mountain shapes and clouds
-Image 2
-Original Image
+## **Refined Prompt (Used in Gemini)**
 
-Basic Prompt
+A cinematic photo of a young man standing on an empty road during sunset, golden hour lighting, warm orange and pink sky, soft shadows, wearing a stylish casual outfit, realistic facial features, slight wind in hair, modern car beside him, background blurred, DSLR quality, ultra realistic, 4K resolution, shallow depth of field
 
-A city at night with lights.
+---
 
-Refined Prompt
+## **Observation**
 
-A modern city skyline at night with bright lights and tall buildings.
+* The first generated image was not very accurate.
+* Adding details improved the output quality.
+* Lighting and background description gave better results.
 
-Final Prompt
+---
 
-A futuristic city skyline at night with neon lights, tall skyscrapers, glowing windows, dark sky, cinematic lighting, ultra detailed, 4K resolution.
+## **Result**
 
-Generated Image
+The given image was successfully reproduced using Gemini by refining the prompt.
 
-Comparison
-Night lighting and city structure matched
-Skyscrapers are clearly visible
-Slight differences in arrangement and color tones
-Deliverables
-Original Images
-Generated Images
-Prompts Used
-Comparison Report
-Conclusion
+---
 
-This experiment demonstrates that AI image generation models can reproduce images effectively when detailed prompts are used. The accuracy improves with better prompt refinement and iteration.
+## **Conclusion**
 
-Result
+Detailed prompts produce better and more accurate images. Prompt engineering is important for achieving desired results.
 
-The corresponding prompt is executed successfully.
+---
+
+## **Output**
+
+### **Original Image**
+
+```
+(Add your given image here)
+```
+
+---
+
+### **Generated Image (Gemini Output)**
+
+## **Learning Outcome**
+
+* Learned how to write effective prompts
+* Understood importance of prompt refinement
+* Gained experience in AI image generation
