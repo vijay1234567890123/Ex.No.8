@@ -1,6 +1,6 @@
 # Exp. No. 8 – Reproducing an Image Using Prompts for Image Generation
 
-## NAME: ANANGI VIJAY VISHAL  
+## NAME: A VIJAY VISHAL  
 ## REG NO: 212223030001  
 
 ---
@@ -52,7 +52,7 @@ The reference image was carefully examined to identify:
 
 ## Reference Image
 
-![Reference Image](https://images.unsplash.com/photo-1506521781263-d8422e82f27a?q=80&w=1200)
+![Reference Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rainy_night_in_Tokyo.jpg/1280px-Rainy_night_in_Tokyo.jpg)
 
 ---
 
@@ -121,7 +121,7 @@ A cinematic night scene of a wet city street during rain, glowing street lights 
 
 ## Output: Gemini Generated Image
 
-![Generated Image](https://images.unsplash.com/photo-1519608487953-e999c86e7455?q=80&w=1200)
+![Generated Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Times_Square_rain.jpg/1280px-Times_Square_rain.jpg)
 
 ---
 
